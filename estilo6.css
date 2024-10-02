@@ -1,0 +1,15 @@
+body{
+    background-image: url("Imagens/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Roboto Condensed;
+    }
+    div{
+  color: white;
+    }
+    tr{
+        color: white;
+    }
+    a{
+        color:blue
+    }

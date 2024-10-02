@@ -1,0 +1,31 @@
+body{
+    background-image: url("Imagens/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Roboto Condensed;
+    }
+    label, input{
+        margin-bottom: 1.5vh;
+       }
+    h1{
+       color:white;
+    }
+    form{
+        color: white;
+    }
+    p{
+            color:white;
+         
+         
+    }
+    a{
+        color:blue;
+    }
+    img{
+        width: 250px;
+    }
+    ul{
+        color:white;
+    }
+    
+    
